@@ -1,3 +1,5 @@
 # Real-Time-Analysis-of-Reddit-Comment-Streams
 
-asdhas
+## Time Windows
+
+## Streaming Analysis 
